@@ -5,3 +5,4 @@
 - [x] React, Redux, and...React-Redux!?
 - [x] Building Reducers
 - [x] Wiring Up the Provider
+- [x] The Connect Function
