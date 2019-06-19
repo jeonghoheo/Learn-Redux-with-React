@@ -6,3 +6,4 @@
 - [x] Building Reducers
 - [x] Wiring Up the Provider
 - [x] The Connect Function
+- [x] Configuring Connect with MapStateToPros
