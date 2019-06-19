@@ -7,3 +7,4 @@
 - [x] Wiring Up the Provider
 - [x] The Connect Function
 - [x] Configuring Connect with MapStateToPros
+- [x] Building a List with Redux Data
