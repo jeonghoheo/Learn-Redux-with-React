@@ -8,3 +8,4 @@
 - [x] The Connect Function
 - [x] Configuring Connect with MapStateToPros
 - [x] Building a List with Redux Data
+- [x] Calling Action Creators from Components
