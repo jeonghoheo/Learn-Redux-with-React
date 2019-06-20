@@ -10,3 +10,4 @@
 - [x] Building a List with Redux Data
 - [x] Calling Action Creators from Components
 - [x] Functional Components with Conect
+- [x] Conditional Rendering
